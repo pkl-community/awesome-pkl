@@ -25,6 +25,9 @@ Awesome Pkl
 [PklLanguageServer](https://github.com/jayadamsmorgan/PklLanguageServer)
 > Language server for Pkl
 
+[asdf-pkl](https://github.com/mise-plugins/asdf-pkl)
+> asdf/mise plugin for managing Pkl binaries
+
 ### 🔌 Community Language Bindings
 
 - [pkl-python](https://github.com/pkl-community/pkl-python)
@@ -41,3 +44,6 @@ Awesome Pkl
 
 [pklgha](https://github.com/jamesward/pklgha)
 > GitHub Actions in Pkl
+
+[pkl-biome](https://github.com/chrisvander/pkl-biome)
+> A Pkl module for configuring Biomejs
