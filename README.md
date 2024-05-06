@@ -28,6 +28,9 @@ Awesome Pkl
 [asdf-pkl](https://github.com/mise-plugins/asdf-pkl)
 > asdf/mise plugin for managing Pkl binaries
 
+[pkl-zed](https://github.com/Moshyfawn/pkl-zed)
+> A Zed extension for Pkl language support.
+
 ### 🔌 Community Language Bindings
 
 - [pkl-python](https://github.com/pkl-community/pkl-python)
