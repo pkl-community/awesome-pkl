@@ -48,5 +48,8 @@ Awesome Pkl
 [pklgha](https://github.com/jamesward/pklgha)
 > GitHub Actions in Pkl
 
+[pkl-gha](https://github.com/StefMa/pkl-gha)
+> Another attempt to use Pkl for GitHub Actions
+
 [pkl-biome](https://github.com/chrisvander/pkl-biome)
 > A Pkl module for configuring Biomejs
