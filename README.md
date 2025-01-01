@@ -42,6 +42,9 @@ Awesome Pkl
 [pkl-pantry](https://github.com/apple/pkl-pantry)
 > Extra Pkl packages that are maintained and published by the Pkl team
 
+[cloudformation-pkl](https://github.com/aws-cloudformation/cloudformation-pkl)
+> CloudFormation Pkl Library from AWS
+
 [cfnpkl](https://github.com/masp/cfnpkl)
 > CloudFormation templates in Pkl
 
@@ -53,3 +56,6 @@ Awesome Pkl
 
 [pkl-biome](https://github.com/chrisvander/pkl-biome)
 > A Pkl module for configuring Biomejs
+
+[cfn-pkl-extras](https://github.com/jamesward/cfn-pkl-extras)
+> Convenient abstractions over the cloudformation-pkl library
