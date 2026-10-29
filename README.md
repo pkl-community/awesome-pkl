@@ -36,6 +36,7 @@ Awesome Pkl
 - [pkl-python](https://github.com/pkl-community/pkl-python)
 - [pkl-typescript](https://github.com/pkl-community/pkl-typescript)
 - [pkl-csharp](https://github.com/Rafaeruo/pkl-csharp)
+- [zig-pkl](https://github.com/guanchzhou/zig-pkl)
 
 ### 🧩 Libraries
 
